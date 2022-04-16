@@ -14,5 +14,5 @@ Further for configuration with Google console and Firebase I have used https://c
 # Authentiation at Firebase
 ![image](https://user-images.githubusercontent.com/90788942/163677994-27f57d82-53f5-48a9-89ab-26de160384ad.png)
 
-For Google SignIn you need to install expo install "expo-google-app-auth"
+For Google SignIn you need to install expo install  'expo-google-app-auth'
 

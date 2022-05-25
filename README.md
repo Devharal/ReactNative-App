@@ -1,4 +1,4 @@
-# ReactNative O-Auth SignIn App
+# ReactNative O-Auth SignIn App(EXPO)
 
 
 This is an App made using React-Native for Oauth signIn google which can further introduced for other social platforms.
